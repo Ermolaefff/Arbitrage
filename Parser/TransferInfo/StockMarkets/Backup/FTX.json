@@ -1,0 +1,2 @@
+{"AGLD": {"AGLD": {"depositEnable": true, "withdrawEnable": true, "withdrawFee": "27", "withdrawMin": "54", "withdrawMax": "9999999"},
+  "ETH": {"depositEnable": true, "withdrawEnable": true, "withdrawFee": "41", "withdrawMin": "54", "withdrawMax": "9999999"}}}
