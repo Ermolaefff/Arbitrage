@@ -6,7 +6,7 @@ public class LogsAnalyzer {
     private static String dir = "./src/MONEYpackage/";
 
     public static void main(String[] args) throws IOException {
-        Writer writer = new FileWriter(dir + "Logs2.txt");
+        Writer writer = new FileWriter(dir + "LogsFiltred.txt");
 
         BufferedReader reader = new BufferedReader(new FileReader(dir + "Logs.txt"));
         for(String profitStr = reader.readLine(); profitStr != null; profitStr = reader.readLine()) {
